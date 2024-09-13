@@ -1,0 +1,40 @@
+/**/
+
+
+.display {
+    margin-top: 20px;
+    height: 80px;
+    font-size: 50px;
+}
+
+.lin {
+    margin-top: 5px;
+}
+
+.lin button{
+    font-size: 30px;
+    margin: 5px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#ce {
+    background-color: rgb(255, 187, 0);
+    border-color: black;
+}
+
+#ce:hover{
+    background-color: black;
+    }
+
+.lin button:hover {
+    background-color: rgb(255, 60, 0);
+    opacity: 1;
+}
+#bot {
+    opacity: 0.5;
+    
+}
+#bot:hover {
+    opacity: 1;
+}
